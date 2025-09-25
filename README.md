@@ -1,2 +1,13 @@
-# Task-tracker_jac
-A Python-based AI-powered task management application that helps you organize, track, and prioritize your daily tasks. Users can add, view, and mark tasks as complete, while the integrated Gemini AI provides smart suggestions on which task to tackle next.
+# SmartTasks - AI-Powered Task Manager
+
+A Python-based task management app that helps you organize, track, and prioritize tasks. It uses Gemini AI to suggest which task to do next.
+
+## Features
+- Add, view, and complete tasks
+- AI-generated suggestions for next task
+- Built with Python and Gemini AI
+
+## Setup
+1. Install dependencies: 
+```bash
+pip install -r requirements.txt
